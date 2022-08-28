@@ -1,4 +1,4 @@
-# Quasar App (DEVScholl)
+# Front-end (DEVScholl)
 
 A Quasar Framework app
 
